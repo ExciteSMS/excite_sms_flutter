@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
     final headers = {
       'Accept': 'application/json',
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer  1|3aOFpH9uOQjQx5s1Z1niX2mjpuJXXDGITj6r2V8m',
+      'Authorization': 'Bearer  ',
     };
 
     final payload = {
